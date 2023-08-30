@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_Toast_Course_Project/static/css/main.d180a775.css",
+    "main.js": "/React_Toast_Course_Project/static/js/main.eaf97dc7.js",
+    "index.html": "/React_Toast_Course_Project/index.html",
+    "main.d180a775.css.map": "/React_Toast_Course_Project/static/css/main.d180a775.css.map",
+    "main.eaf97dc7.js.map": "/React_Toast_Course_Project/static/js/main.eaf97dc7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d180a775.css",
+    "static/js/main.eaf97dc7.js"
+  ]
+}
